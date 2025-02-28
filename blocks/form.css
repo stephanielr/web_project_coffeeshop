@@ -1,0 +1,9 @@
+.form {
+  max-width: 385px;
+}
+
+.form__checkbox input[type="checkbox"] {
+  width: 20px; /* Tamaño del checkbox */
+  height: 20px; /* Tamaño del checkbox */
+  margin-right: 12px;
+}
